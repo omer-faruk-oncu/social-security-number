@@ -1,0 +1,14 @@
+h1{
+    font-size: 3rem;
+    text-align: center;
+    margin: 50px;
+}
+
+.validator{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.myInput, .btnValidate{
+    font-size: 2rem;
+}
